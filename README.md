@@ -11,11 +11,11 @@ Maize is Kenya's primary staple food. When prices spike, low-income households a
 ##  Counties Covered
 County - Zone - Best Model 
 
-Nairobi- Urban - TSLM 
-Turkana - Arid (ASAL) - TSLM 
-Marsabit - Arid (ASAL) - Naive 
-Mombasa - Urban - Naive 
-Uasin Gishu - Agricultural - Naive 
+|Nairobi- Urban - TSLM |
+|Turkana - Arid (ASAL) - TSLM| 
+|Marsabit - Arid (ASAL) - Naive |
+|Mombasa - Urban - Naive |
+|Uasin Gishu - Agricultural - Naive |
 
 ## Forecasting Models
 - **Naive** — Uses last month's price to predict forward
